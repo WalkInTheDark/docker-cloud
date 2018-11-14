@@ -1,3 +1,1 @@
-# docker-cloud
-docer-cloud
-fuck
+This is a repository for docker-compose.yml file!
